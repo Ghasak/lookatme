@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pygments = "<3.0.0,>=2.13.0"
+rich = "==13.7.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
